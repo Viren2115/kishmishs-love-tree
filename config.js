@@ -3,14 +3,15 @@ var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
         "Hey Kishmish",
-        "I'm missing you",
-        "I'm feeling bad for what i said. i should have understood",
-        "I'm sorry.",
-        "I'm sorry.",
-        "and ik you love me",
-        "Today is your first night-out na so have lots of fun",
-        "sorry for acting selfishly",
-        "I love you。。。",
+        "I have pondered over this thought gazillion times in a day",
+        "I have lost count of time immersed deep in thoughts about the same",
+        "And while I have invested a significant amount of time to assure myself with a logical explanation",
+        "Yet there's no definite conclusion nor do I think I could ever find an answer",
+        "。。。。。。。。。。。。。",
+        "To why I love you",
+        "Because it's not something I think of doing",
+        "It occurs to me as naturally as my heart beating.",
+        "I love you。。。Happy Anniversary",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
